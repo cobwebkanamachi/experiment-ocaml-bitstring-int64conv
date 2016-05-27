@@ -8,10 +8,10 @@ I downloaded that from here: https://code.google.com/archive/p/bitstring/downloa
 then gzip -dc ocaml-bitstring-2.0.4.tar.gz|tar xvf -<BR>
 <BR>
 2. make<BR>
-type make<BR>
+please type make<BR>
 <BR>
 3. make test<BR>
-type make test<BR>
+please type make test<BR>
 then I got assert error on test18 (on my environment).<BR>
 <BR>
 4. put test_18_mine.ml into tests dir.<BR>
