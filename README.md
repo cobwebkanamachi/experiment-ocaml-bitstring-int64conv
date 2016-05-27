@@ -5,7 +5,7 @@ https://people.redhat.com/~rjones/bitstring/<BR>
 <BR>
 1. Download<BR>
 I downloaded that from here: https://code.google.com/archive/p/bitstring/downloads<BR>
-then https://code.google.com/archive/p/bitstring/downloads<BR>
+then gzip -dc ocaml-bitstring-2.0.4.tar.gz|tar xvf -<BR>
 <BR>
 2. make<BR>
 type make<BR>
