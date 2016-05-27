@@ -15,7 +15,7 @@ please type make test<BR>
 then I got assert error on test18 (on my environment).<BR>
 <BR>
 4. put test_18_mine.ml into tests dir.<BR>
-then type make test<BR>
+then please type make test<BR>
 5. output of test_18_mine.ml<BR>
 You would get shown bellow when you type make test.<BR>
 <pre>
